@@ -1,6 +1,6 @@
 const generateButton = document.querySelector('.generate-button');
 const textArea = document.getElementById('text-area');
-const chooseText = document.getElementsByClassName('msg')
+const chooseText = document.getElementsByClassName('msg');
 
 const randNum = Math.floor(Math.random() *2)
 /*
